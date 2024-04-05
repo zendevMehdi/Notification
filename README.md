@@ -43,5 +43,5 @@ public class App {
 
 ## Screenshots
 
-![Windows 11]("[screenshots/gm.png](https://github.com/zendevMehdi/Notification/blob/ed10076a5251d67512846f8580b8da881214a0ae/screenshots/gm.png)")
+![screenshots/gm.png](https://github.com/zendevMehdi/Notification/blob/ed10076a5251d67512846f8580b8da881214a0ae/screenshots/gm.png)
 
